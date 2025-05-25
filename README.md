@@ -1,2 +1,4 @@
 # Test-SN-App
-ServiceNow Application
+ServiceNow Application 
+
+Testing the integration between ServiceNow and GitHub
