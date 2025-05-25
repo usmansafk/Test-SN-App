@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="usmans_field" label="Usman was here" language="en" table="x_1326913_test_app_my_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>usmans_field</element>
+            <help/>
+            <hint/>
+            <label>Usman was here</label>
+            <language>en</language>
+            <name>x_1326913_test_app_my_table</name>
+            <plural>Usman was heres</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 16:24:49</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Usman was here</sys_name>
+            <sys_package display_value="Test-SN-App" source="x_1326913_test_app">d7f359a48371e2104408c8efeeaad359</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test-SN-App">d7f359a48371e2104408c8efeeaad359</sys_scope>
+            <sys_update_name>sys_documentation_x_1326913_test_app_my_table_usmans_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 16:24:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

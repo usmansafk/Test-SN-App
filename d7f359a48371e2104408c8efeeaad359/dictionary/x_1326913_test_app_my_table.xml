@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ce755d2c8371e2104408c8efeeaad3a3" extends="task" label="My Table" max_length="40" name="x_1326913_test_app_my_table" type="collection">
+        <element label="Usman was here" max_length="40" name="usmans_field" type="boolean"/>
+    </element>
+</database>
